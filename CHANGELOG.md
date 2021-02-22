@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Extending the adopted spec, each change should have a link to its corresponding pull request appended.
 
+## [10.2.0](https://www.github.com/terraform-google-modules/terraform-google-project-factory/compare/v10.1.1...v10.2.0) (2021-02-22)
+
+
+### Features
+
+* Expose service identity Service Account emails ([#548](https://www.github.com/terraform-google-modules/terraform-google-project-factory/issues/548)) ([62c168d](https://www.github.com/terraform-google-modules/terraform-google-project-factory/commit/62c168dd7cd54a8935462448aa8becd5372a1726))
+
 ### [10.1.1](https://www.github.com/terraform-google-modules/terraform-google-project-factory/compare/v10.1.0...v10.1.1) (2021-01-27)
 
 
