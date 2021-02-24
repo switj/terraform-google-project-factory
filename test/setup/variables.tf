@@ -13,6 +13,10 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+variable "terraform_service_account" {
+  description = "Terraform service account used to apply the terraform"
+  type        = string
+}
 
 variable "org_id" {
   description = "The numeric organization id"
