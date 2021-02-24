@@ -1,20 +1,4 @@
 /******************************************
-  Provider Versions
- *****************************************/
-terraform {
-  required_providers {
-    google = {
-      source  = "hashicorp/google"
-      version = "~> 3.30"
-    }
-    google-beta = {
-      source  = "hashicorp/google-beta"
-      version = "~> 3.30"
-    }
-  }
-}
-
-/******************************************
   Provider credential configuration
  *****************************************/
 provider "google" {
